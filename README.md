@@ -3,9 +3,9 @@
 
 🌟 About Me:
 
-📚 Currently diving into the fundamentals of Computer Science.
-🐍 Exploring the versatile world of Python programming.
-💡 Driven by a curiosity to innovate and create solutions that can make a difference.
+Currently diving into the fundamentals of Computer Science.
+Exploring the versatile world of Python programming.
+Driven by a curiosity to innovate and create solutions that can make a difference.
 
 💪 Current Focus:
 
@@ -15,13 +15,13 @@ Exploring fields like data analysis, web development, and automation.
 
 🚀Imagination & Ideas:
   
-💭 Constantly brainstorming new project ideas and unique applications of technology.
-📓 Keeping a journal of project ideas, from simple scripts to complex applications.
-🚀 Eager to bring imaginative concepts to life through collaborative and solo projects.
+Constantly brainstorming new project ideas and unique applications of technology.
+Keeping a journal of project ideas, from simple scripts to complex applications.
+Eager to bring imaginative concepts to life through collaborative and solo projects.
 
 🎯 Goal:
 
-🛑Developing a suite of Python-based products and services that address market needs.
+Developing a suite of Python-based products and services that address market needs.
 Creating a sustainable business model that emphasizes quality, customer satisfaction, and continuous improvement.
 Utilizing Python’s versatility to innovate in areas such as web development, data analytics, artificial intelligence, and automation.
 Building a supportive community where learners can share their progress, ask questions, and collaborate on projects.
