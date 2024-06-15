@@ -22,8 +22,8 @@ Exploring fields like data analysis, web development, and automation.
 🎯 Goal:
 
 🛑Developing a suite of Python-based products and services that address market needs.
-🛑Creating a sustainable business model that emphasizes quality, customer satisfaction, and continuous improvement.
-🛑Utilizing Python’s versatility to innovate in areas such as web development, data analytics, artificial intelligence, and automation.
-🛑Building a supportive community where learners can share their progress, ask questions, and collaborate on projects.
+Creating a sustainable business model that emphasizes quality, customer satisfaction, and continuous improvement.
+Utilizing Python’s versatility to innovate in areas such as web development, data analytics, artificial intelligence, and automation.
+Building a supportive community where learners can share their progress, ask questions, and collaborate on projects.
 
 ▶️Explore my repositories to find tutorials, educational projects, and resources aimed at making Python and technology accessible to everyone. I’m always open to feedback, suggestions, and collaboration opportunities!
