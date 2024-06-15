@@ -36,6 +36,6 @@ Utilizing Python’s versatility to innovate in areas such as web development, d
 Building a supportive community where learners can share their progress, ask questions, and collaborate on projects.
 
 
-▶️Explore my repositories to find tutorials, educational projects, and resources aimed at making Python and technology accessible to everyone.
+▶️Explore my repositories to find educational projects, and resources aimed at making Python and technology accessible to everyone.
 <br>
    I’m always open to feedback, suggestions, and collaboration opportunities!
