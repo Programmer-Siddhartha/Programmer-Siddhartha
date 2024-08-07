@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Python learner and tech enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif">
 
-- 🌱 I’m currently learning **Python.**
+- 🔭 I’m currently working on improving my Python skills. These are my [Python Projects.](https://github.com/Programmer-Siddhartha/Python-Projects) A brief overview of the project, including its purpose, technologies used, and key features.
+
+- 🌱 I’m currently learning and exploring **Python, frameworks.**
 
 - 💬 Ask me about **Python, algorithms, and best coding practices.**
 
